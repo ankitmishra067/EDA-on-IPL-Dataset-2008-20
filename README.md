@@ -31,26 +31,27 @@ This repository is about EDA performed on Indian Premier League Data available b
 It has a python notebook where all the coding has been done
 It also has the relevant datasets used for this analysis
 Brief Overview of the steps followed in this project
+
 There are 2 datasets used for the analysis. 'IPL Matches 2008-2020.csv' dataset gives information on all the matches played in IPL between 2008 and 2020 i.e. information on the following:
 
-Season
-Venue
-City
-Teams
-Winner
-Toss Winner
-Winning margin
-Umpires
+    Season
+    Venue
+    City
+    Teams
+    Winner
+    Toss Winner
+    Winning margin
+    Umpires
 
 On the other hand 'IPL Ball-by-Ball 2008-2020.csv' dataset gives ball by ball information on every match played during 2008 - 2020.
 i.e. information on the following:
 
 
-Runs scored per ball
-Extras by bowlers/fielding team
-Wickets taken
-Types of dismissals
-Venue It basically provides individual records of players.
+    Runs scored per ball
+    Extras by bowlers/fielding team
+    Wickets taken
+    Types of dismissals
+    Venue It basically provides individual records of players.
 
 The entire EDA process was broken down into 2 high level topics to find answers to the problem statement
 
@@ -59,15 +60,3 @@ The entire EDA process was broken down into 2 high level topics to find answers 
 
 However, before analysing, Profiling and processing of data was undertaken. After finding patterns and relationships in the data, EDA process was concluded with few conclusions as derived while analysing. Along with concluding insights, few actionable items were also suggested which could help in better performance of players or auctioning of players, etc.
 
-
- 2 forks
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Jupyter Notebook
-100.0%
-© 2022 GitHub, Inc.
-Terms
-Privacy
